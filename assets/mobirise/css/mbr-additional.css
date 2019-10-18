@@ -1525,6 +1525,9 @@ section.lazy-placeholder:after {
 .cid-rEA4GY6zPZ .mbr-timeline-text P {
   text-align: center;
 }
+.cid-rEA4GY6zPZ .mbr-timeline-text {
+  text-align: right;
+}
 .cid-rEA6iIQSsd {
   padding-top: 105px;
   padding-bottom: 90px;
@@ -1615,6 +1618,9 @@ section.lazy-placeholder:after {
 .cid-rEA6iIQSsd .reverseTimeline {
   display: flex;
   flex-direction: column-reverse;
+}
+.cid-rEA6iIQSsd .mbr-timeline-text {
+  text-align: left;
 }
 .cid-rEA7HBeX3w {
   padding-top: 90px;
